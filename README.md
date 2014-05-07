@@ -1,5 +1,4 @@
 OpenDroneMap
-
 ===
 
 Projects like Google Streetview, Mapillary, PhotoSynth, and most small UAS (drone) postprocessing software, such as that offered by senseFly, share a commonality-- they all use computer vision techniques to create spatial data from un-referenced photography.
